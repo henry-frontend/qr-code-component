@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot/qr-code-component-mobile.png)
-![](./screenshot/qr-code-component-desktop.png)
+![qr-code-component-mobile](./screenshot/qr-code-component-mobile.png)
+![qr-code-component-desktop](./screenshot/qr-code-component-desktop.png)
 
 ### Links
 
