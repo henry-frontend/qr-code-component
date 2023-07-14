@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-During this project, I deepened my understanding of CSS Flexible Box Layout (Flexbox). Flexbox proved to be an incredibly powerful tool for creating flexible and responsive layouts. I learned how to use properties like display: flex, flex-direction, justify-content, and align-items to manipulate the layout and positioning of elements within a container.
+During this project, I deepened my understanding of CSS Flexible Box Layout (Flexbox). Flexbox proved to be an incredibly powerful tool for creating flexible and responsive layouts. I learned how to use properties like display: `flex`, `flex-direction`, `justify-content`, and `align-items` to manipulate the layout and positioning of elements within a container.
 
 Here's an example of how I used Flexbox to create a centered container with horizontally aligned items:
 
